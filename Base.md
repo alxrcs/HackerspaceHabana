@@ -16,6 +16,6 @@ En un Laboratorio de creación suele utilizarse un sistema de organización y ap
  - Escaner para documentos de gran formato 
  - Impresora 3d
  - Maquina CNC
- - Maquina estrusadora de plasticos para impresión 3d
+ - Maquina estrusadora de plásticos para impresión 3d
  - Proyecto de computación visual
  - Internet de las cosas
