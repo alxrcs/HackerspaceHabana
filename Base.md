@@ -21,4 +21,4 @@ En un Laboratorio de creación suele utilizarse un sistema de organización y ap
  - Internet de las cosas
 
 ### Funcionamiento interno del laboratorio
-Este funcionará como una organización sin animos de lucro, digase que su proposito no es hacer dinero, sino generar ideas y conocimiento, la financiación del mismo será mediante donaciones por aquellos individuos que se sientan identificados con este ó sencillamente quieran mantenerlo funcionando.
+Este funcionará como una organización sin ánimos de lucro, su proposito no es hacer dinero, sino generar ideas y conocimiento. La financiación del mismo será mediante donaciones por aquellos individuos que se sientan identificados con este o sencillamente quieran mantenerlo funcionando.
