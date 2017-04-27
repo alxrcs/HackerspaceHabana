@@ -19,6 +19,7 @@ En un Laboratorio de creación suele utilizarse un sistema de organización y ap
  - Maquina estrusadora de plásticos para impresión 3d
  - Proyecto de computación visual
  - Internet de las cosas
+ - Sitios web para el desarrollo de la comunidad
 
 ### Financiación del laboratorio
 Este funcionará como una organización sin animos de lucro, digase que su proposito no es hacer dinero, sino generar ideas y conocimiento, la financiación del mismo será mediante donaciones por aquellos individuos que se sientan identificados con este ó sencillamente quieran mantenerlo funcionando.
