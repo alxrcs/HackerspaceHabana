@@ -1,5 +1,5 @@
 ## Laboratorio de creación:
-Es un sitio físico donde gente con intereses en ciencia, nuevas tecnologías, y artes digitales o electrónicas se puede conocer, socializar y colaborar. Puede ser visto como un laboratorio de comunidad abierta, un espacio donde gente de diversos trasfondos puede unirse. 
+Es un sitio físico donde personas con intereses en ciencia, nuevas tecnologías, y artes digitales o electrónicas se puede conocer, socializar y colaborar. Puede ser visto como un laboratorio de comunidad abierta, un espacio donde personas de diversos trasfondos puede unirse. 
 
 ### Propósito:
 Pone al alcance de aficionados y estudiantes de diferentes niveles la infraestructura y ambiente necesarios para desarrollar sus proyectos tecnológicos. El propósito de un hackspace es concentrar recursos y conocimiento para fomentar la investigación y el desarrollo.
@@ -19,3 +19,6 @@ En un Laboratorio de creación suele utilizarse un sistema de organización y ap
  - Maquina estrusadora de plásticos para impresión 3d
  - Proyecto de computación visual
  - Internet de las cosas
+
+### Funcionamiento interno del laboratorio
+Este funcionará como una organización sin animos de lucro, digase que su proposito no es hacer dinero, sino generar ideas y conocimiento, la financiación del mismo sera mediante donaciones por aquellos individuos que se sientan identificados con el mismo ó sencillamente quieran mantenerlo funcionando
